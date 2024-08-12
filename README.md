@@ -4,7 +4,7 @@
 2. Swich to master branch click "<> Code", then click Download ZIP
 3. Extract downloaded file on a temp directory.
 4. Open your github page, create a new repository.
-5. Add all files in the temp directory.
+5. Add all files in the temp directory, upload them to the repository.
 6. Declare this new project is written by you.
 
 ----------------
